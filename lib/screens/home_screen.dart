@@ -1,4 +1,4 @@
-import 'package:flutter/Material.dart';
+ import 'package:flutter/Material.dart';
 import 'package:flutter_alam/data/candi_data.dart';
 import '../models/candi.dart';
 
